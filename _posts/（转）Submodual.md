@@ -1,5 +1,5 @@
 ---
-title: Submodual
+title: （转）Submodual
 date: 2016-06-14 09:39:05
 thumbnail: https://obrxbqjbi.qnssl.com/blog/image/submodual-thumbnail.jpg
 tags:
