@@ -35,7 +35,7 @@ uint64_t generateStamp()
 }
 ```
 
-默认情况下有41个bit可以供使用，那么一共有T（1llu << 41）毫秒供你使用分配，年份 = T / (3600 \* 24 \* 365 \* 1000) = 69.7年。如果你只给时间戳分配39个bit使用，那么根据同样的算法最后年份 = 17.4年。
+默认情况下有41个bit可以供使用，那么一共有T（1L << 41）毫秒供你使用分配，年份 = T / (3600 \* 24 \* 365 \* 1000) = 69.7年。如果你只给时间戳分配39个bit使用，那么根据同样的算法最后年份 = 17.4年。
 
 ## Snowflake – 工作机器id
 
@@ -107,7 +107,7 @@ public class TwitterSnowFlake {
     //机器码位移数
     private static long workerIdShift = sequenceBits;
     //数据中心标识位移数
-    private static long datacenterIdShift = workerIdBits+ sequenceBits;
+    private static long datacenterIdShift = workerIdBits + sequenceBits;
     //时间戳位移数
     private static long timestampShift = datacenterIdBits + workerIdBits + sequenceBits;
 

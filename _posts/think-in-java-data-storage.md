@@ -1,5 +1,5 @@
 ---
-title: Java编程思想学习笔记1
+title: Java编程思想之数据存储（一）
 date: 2017-03-14 22:09:44
 thumbnail: https://obrxbqjbi.qnssl.com/blog/image/ThinkingInJava.png
 tags:
