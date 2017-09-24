@@ -1,5 +1,5 @@
 ---
-title: 细说Java8之新增API上（一）
+title: 细说Java8之新增API上
 date: 2017-03-24 19:55:51
 thumbnail: https://obrxbqjbi.qnssl.com/blog/image/java8-thumbnail.png
 tags:

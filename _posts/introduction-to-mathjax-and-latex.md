@@ -80,9 +80,7 @@ $$\left\{\sum_{i=0}^ni^2=\frac {(n^2+n)(2n+1)}{6}\right\} \tag {1.2}$$
 ### 求和与积分
 
 - `\sum`用来表示求和符号，其下标表示求和下限，上标表示上限。如，`\sum_1^n`：$\sum_1^n$。
-
 - `\int`用来表示积分符号，同样地，其上下标表示积分的上下限。如，`\int_1^\infty`：$\int_1^\infty$。
-
 - 与此类似的符号还有，`\prod`：$\prod$，`\bigcup`:$\bigcup$，`\bigcap`：$\bigcap$，`\iint`：$\iint$。
 
 ### 分式与根式
