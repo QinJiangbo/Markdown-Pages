@@ -7,7 +7,7 @@ tags:
 	- Linux
 categories:
 	- 数据科学
-	- Hadoop
+	- 大数据
 keywords:
 	- Hadoop
 	- Linux
